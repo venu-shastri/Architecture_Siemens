@@ -1,0 +1,10 @@
+http://humanfactors.com/
+https://en.wikipedia.org/wiki/Xamarin
+sink hole anti pattern
+http://www.enterpriseintegrationpatterns.com/
+https://www.freeformatter.com/mime-types-list.html#mime-types-list
+https://semantria.readme.io/docs/quick-start-with-net
+https://www.lexalytics.com/
+97 things an architect should know
+http://www.codingthearchitecture.com/2011/09/06/jitter.html
+https://www.codementor.io/@antoniopfesilva/how-to-write-meaningful-quality-attributes-for-software-development-ez8y90wyo
